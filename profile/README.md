@@ -1,49 +1,93 @@
-# Nuvix
+# 🪐 Nuvix · Modern Backend Platform
 
-Welcome to **Nuvix**, a powerful and extensible Backend-as-a-Service (BaaS) platform designed to simplify backend development. Built with **TypeScript**, **NestJS**, and a custom **database library**, Nuvix enables developers to create scalable applications with minimal effort.
+**Nuvix** is a high-performance backend platform built for modern applications — fast, scalable, and developer-first.
 
-## 🚀 Why Nuvix?
+Welcome to the official GitHub organization for Nuvix. This space hosts open tools, SDKs, and resources we share with the developer community. While Nuvix itself is a managed platform, we believe in transparency, modularity, and empowering developers with the right abstractions.
 
-Nuvix is built for developers who need a robust and flexible backend system without managing complex infrastructure. It provides:
+---
 
-- **Custom Database Layer** – Schema-based & dynamic migrations with multi-tenancy support.
-- **Access Control (ACL)** – Fine-grained permission management.
-- **Real-Time Communication** – Integrated **Socket.IO** for real-time updates.
-- **Job Queues & Scheduling** – Powered by **BullMQ** for background tasks.
-- **Webhooks & Event System** – Efficient event-driven architecture.
-- **Chunked File Uploads** – Supports resumable uploads and optimized storage.
-- **Push Notifications** – Built-in support for **FCM**, **Twilio**, and external providers.
+## ✨ What is Nuvix?
 
-## 🔒 Open-Source vs Proprietary
+Nuvix provides a powerful backend-as-a-service (BaaS) built on PostgreSQL with modern architectural patterns. We support:
 
-Nuvix itself, including its **core backend**, **database library**, and **caching system**, is **not open-source**. However, we provide open-source SDKs and starter templates to help developers integrate with Nuvix easily.
+* ⚙️ **Three schema types** – Document, Managed SQL, and Unmanaged SQL.
+* 🧠 **Custom query language** – `NuvQL` for expressive and secure querying.
+* 🧹 **Flexible permissions** – Table-level and Row-level security (TLS + RLS).
+* 🧱 **Multi-project isolation** – Secure, scalable, and team-ready.
 
-### ✅ Open-Source Components:
-- **Client SDKs**: 
-  - Web (TypeScript)
-  - Flutter
-  - Kotlin
-  
-- **Server SDKs**:
-  - Python
-  - Node.js
-  
-- **Starter Templates & Examples**: Get started quickly with our official templates and example projects.
+Nuvix is designed to help you move fast without compromising on control, security, or performance.
 
-## 📂 Projects in Nuvix-Tech
+---
 
-🔹 **[Nuvix SDKs](https://github.com/Nuvix-Tech/nuvix-sdks)** - The official SDKs to interact with the Nuvix backend.
+## 📁 Repositories
 
-🔹 **[Nuvix Console](https://github.com/Nuvix-Tech/nuvix-console)** - A Next.js-based admin dashboard for managing Nuvix.
+This organization contains public packages and tooling related to the Nuvix ecosystem:
 
-🔹 **[Nuvix Starter Templates](https://github.com/Nuvix-Tech/nuvix-starters)** - Open-source starter projects for various platforms.
+| Repository                                                                  | Description                                           |
+| --------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [`nuvix-sdk-js`](https://github.com/nuvix-tech/sdk-for-web)                  | TypeScript SDK for interacting with the Nuvix API.    |
+| *More coming soon...*                                                       | Stay tuned as we expand our public tooling.           |
 
-## 📜 License
+> 📌 Core services like the Nuvix backend, Console, and internal tooling are closed-source and hosted as a managed platform.
 
-Nuvix SDKs and templates are open-source under the **BSD 3-Clause License**. However, the core Nuvix backend and its custom libraries remain proprietary.
+---
 
-## 💡 Get Involved
+## 🚀 Getting Started
 
-We welcome contributions to our open-source SDKs and templates! Whether you want to **fix bugs**, **add features**, or **improve documentation**, check out our [contributing guide](https://github.com/Nuvix-Tech/.github/blob/main/CONTRIBUTING.md).
+Want early access to Nuvix?
+📅 Join the waitlist at [https://nuvix.com](https://nuvix.in)
 
-Join us in building the future of backend development! 🚀
+Once you're in:
+
+1. Create a project on the Nuvix Console.
+2. Install the SDK:
+
+```bash
+npm install nuvix
+```
+
+3. Start building with modern APIs and first-class developer experience.
+
+> Documentation available at: [https://docs.nuvix.com](https://docs.nuvix.com)
+
+---
+
+## 💡 Why Nuvix?
+
+* Built for **speed** and **scale**.
+* Designed with **developers** in mind.
+* Focused on **customization** without complexity.
+* Unified platform with **modular tools**.
+
+Nuvix bridges the gap between full control and full abstraction — so you can build, ship, and grow with confidence.
+
+---
+
+## 🧑‍💻 Contributing
+
+At this stage, we're focused on stability and internal development. Public contributions are limited to specific SDKs and libraries under this org.
+
+If you're interested in contributing:
+
+* Check each repo's `CONTRIBUTING.md`
+* Submit feature requests via GitHub Issues
+* Report bugs with detailed reproduction steps
+
+---
+
+## 📬 Stay Connected
+
+* 🌐 Website: [https://nuvix.com](https://nuvix.in)
+* 📄 Docs: [https://docs.nuvix.com](https://docs.nuvix.in)
+* 💬 Discord (Coming Soon)
+* 🕊 Twitter/X (Coming Soon)
+
+---
+
+## 🛡 License
+
+Open-source repositories under this org are typically released under the **BSD 3-Clause License** unless stated otherwise.
+
+---
+
+> Nuvix® is a trademark of the Nuvix Technologies team. All rights reserved.
