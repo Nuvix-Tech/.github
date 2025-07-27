@@ -94,8 +94,8 @@ If you're interested in contributing:
 
 ## 📬 Stay Connected
 
-* 🌐 Website: [https://nuvix.com](https://nuvix.in)
-* 📄 Docs: [https://docs.nuvix.com](https://docs.nuvix.in)
+* 🌐 Website: [https://nuvix.in](https://nuvix.in)
+* 📄 Docs: [https://docs.nuvix.in](https://docs.nuvix.in)
 * 💬 Discord (Coming Soon)
 * 🕊 Twitter/X (Coming Soon)
 
