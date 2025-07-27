@@ -8,12 +8,29 @@ Welcome to the official GitHub organization for Nuvix. This space hosts open too
 
 ## ✨ What is Nuvix?
 
-Nuvix provides a powerful backend-as-a-service (BaaS) built on PostgreSQL with modern architectural patterns. We support:
+Nuvix provides a powerful backend-as-a-service (BaaS) platform built on PostgreSQL with modern architecture, scalable primitives, and developer-first tooling.
 
-* ⚙️ **Three schema types** – Document, Managed SQL, and Unmanaged SQL.
-* 🧠 **Custom query language** – `NuvQL` for expressive and secure querying.
-* 🧹 **Flexible permissions** – Table-level and Row-level security (TLS + RLS).
-* 🧱 **Multi-project isolation** – Secure, scalable, and team-ready.
+We currently support:
+
+🧩 Database – Powerful PostgreSQL engine with flexible schema control.
+
+🔐 Auth – Built-in authentication with roles, sessions, and permissions.
+
+✉️ Messaging – Unified APIs for email, SMS, and push notifications.
+
+🗄️ Storage –  Modern file storage with support for image transformation.
+
+Key Features:
+
+⚙️ Three schema types – Document, Managed SQL, and Unmanaged SQL.
+
+🧠 Custom query language – NuvQL for expressive, URL-safe filtering and querying.
+
+🛡 Advanced access control – Table-level and Row-level security (TLS + RLS).
+
+🔄 Postgres-to-REST API – With advanced embedding, joins, and filtering.
+
+🧱 Multi-project isolation – Secure, scalable, and team-ready by design.
 
 Nuvix is designed to help you move fast without compromising on control, security, or performance.
 
