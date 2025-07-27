@@ -42,7 +42,7 @@ This organization contains public packages and tooling related to the Nuvix ecos
 
 | Repository                                                                  | Description                                           |
 | --------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [`nuvix-sdk-js`](https://github.com/nuvix-tech/sdk-for-web)                  | TypeScript SDK for interacting with the Nuvix API.    |
+| [`sdk-for-web`](https://github.com/nuvix-tech/sdk-for-web)                  | TypeScript SDK for interacting with the Nuvix API.    |
 | *More coming soon...*                                                       | Stay tuned as we expand our public tooling.           |
 
 > 📌 Core services like the Nuvix backend, Console, and internal tooling are closed-source and hosted as a managed platform.
@@ -52,7 +52,7 @@ This organization contains public packages and tooling related to the Nuvix ecos
 ## 🚀 Getting Started
 
 Want early access to Nuvix?
-📅 Join the waitlist at [https://nuvix.com](https://nuvix.in)
+📅 Join the waitlist at [https://nuvix.in](https://nuvix.in)
 
 Once you're in:
 
@@ -65,7 +65,7 @@ npm install nuvix
 
 3. Start building with modern APIs and first-class developer experience.
 
-> Documentation available at: [https://docs.nuvix.com](https://docs.nuvix.com)
+> Documentation available at: [https://docs.nuvix.in](https://docs.nuvix.in)
 
 ---
 
